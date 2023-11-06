@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stekt
+- 👋 Hi, I’m @daniel-lovhaug
 - 🌱 I’m currently learning ... Javascript and C#
 - 📫 How to reach me ... daniellovhaug@hotmail.com
 
